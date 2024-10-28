@@ -1,2 +1,2 @@
 # k8sd
-Dockersand k8s
+Dockers and k8s
