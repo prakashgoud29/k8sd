@@ -1,19 +1,18 @@
-# k8sd
-Dockers and k8s
+# Prakash Bio
 <h1 align="center">Hi 👋, I'm Prakash</h1>
-<h3 align="center">A passionate Cloud Engineer</h3>
+<h3 align="center">A passionate DevOps Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prakashgoud29&label=Profile%20views&color=0e75b6&style=flat" alt="prakashgoud29" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prakashgoud29" alt="prakashgoud29" /></a> </p>
 
-- 👯 I’m looking to collaborate on **Cloud Projects**
+- 👯 I’m looking to collaborate on **DevOps Projects**
 
-- 🤝 I’m looking for help with **AWS,Azure**
+- 🤝 I’m looking for help with **AWS,Azure, GCP**
 
-- 💬 Ask me about **Cloud**
+- 💬 Ask me about **Cloud,DevOps,SRE**
 
-- 📫 How to reach me **prakashgoud291999@gmail.com**
+- 📫 How to reach me **prakashgoud1129@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
